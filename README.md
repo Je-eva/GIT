@@ -80,7 +80,7 @@ This ensures Git waits until you close the editor window.
 
 ```bash
 git config --global user.name "Jeeva Vinod"
-git config --global user.email "jeevaj3v12@gmail.com"
+git config --global user.email "spam@gmail.com"
 ```
 
 These settings associate commits with your name and email.
