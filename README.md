@@ -129,7 +129,7 @@ git branch
 
 * Lists all branches.
 * Default branch is usually `master` or `main`.
-
+  Note that m until we commit in master, the main branch wont b e created and the side branches cant created without any actual master existing
 ```bash
 git branch jee-va
 ```
